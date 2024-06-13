@@ -8,6 +8,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
+- [To-Do List](#to-do-list)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
