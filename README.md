@@ -65,6 +65,11 @@ Follow these steps to use the project:
     python visualize.py --model_path models/your_model.pth
     ```
 
+5. **Workflow Image**
+   - Here is a sample workflow of the project:
+   
+   ![Workflow](images/workflow.png)
+
 ## Features
 - **Advanced 3D/4D Modeling**: Utilizes cutting-edge deep learning techniques for precise cardiac shape modeling.
 - **High Accuracy**: Achieves high accuracy in capturing complex cardiac structures, ensuring reliable results.
