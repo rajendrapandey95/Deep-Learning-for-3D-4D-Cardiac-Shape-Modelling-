@@ -84,3 +84,46 @@ Follow these steps to use the project:
 - **Matplotlib/Plotly**: Visualization libraries for presenting results.
 
 ## Project Structure
+
+## To-Do List
+- [ ] Prepare the dataset for public release.
+- [ ] Finalize and document the training script (`train.py`).
+- [ ] Finalize and document the evaluation script (`evaluate.py`).
+- [ ] Finalize and document the visualization script (`visualize.py`).
+- [ ] Create and upload sample data and results.
+- [ ] Publish the research paper.
+- [ ] Release the code and dataset upon publication of the paper.
+
+## Contributing
+We welcome contributions from the community! To contribute, follow these steps:
+
+1. **Fork the Repository**
+2. **Create a New Branch**
+    ```bash
+    git checkout -b feature/YourFeature
+    ```
+3. **Commit Your Changes**
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. **Push to the Branch**
+    ```bash
+    git push origin feature/YourFeature
+    ```
+5. **Create a New Pull Request**
+
+Please ensure your code adheres to our coding standards and includes appropriate tests.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any queries or support, please reach out to us at: [your.email@example.com](mailto:your.email@example.com).
+
+## Acknowledgments
+- [Project Contributors](CONTRIBUTORS.md)
+- [References and Further Reading](REFERENCES.md)
+
+---
+
+**Note**: The code and dataset will be provided once the paper is published. Stay tuned for updates.
